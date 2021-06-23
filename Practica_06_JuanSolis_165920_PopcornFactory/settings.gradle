@@ -1,0 +1,2 @@
+rootProject.name = "Practica_06_JuanSolis_165920_PopcornFactory"
+include ':app'
